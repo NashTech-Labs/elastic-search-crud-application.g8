@@ -1,8 +1,8 @@
 A [Giter8][g8] template of sample application to show the basic crud operations on ElasticSearch!
 
-**Prerequisite:** If you don not have elastic search installed in your system, download elasticsearch from [here]<https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-oss-7.0.0-linux-x86_64.tar.gz>
+**Prerequisite:** If you don not have elastic search installed in your system, download elasticsearch from [here](https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-oss-7.0.0-linux-x86_64.tar.gz)
 
-For basic terminilogy of elastic search. Read from [Introduction To ElasticSearch]<https://blog.knoldus.com/introduction-to-elasticsearch/>
+For basic terminilogy of elastic search. Read from [Introduction To ElasticSearch](https://blog.knoldus.com/introduction-to-elasticsearch)
 
 # How to set up ?
 
@@ -18,7 +18,7 @@ For basic terminilogy of elastic search. Read from [Introduction To ElasticSearc
 
    ``sbt run``
     
-For easy interaction with elastic search, There is chrome extension of sense for es. For Sense, [refer]<https://github.com/StephaneBour/sense-chrome>  
+For easy interaction with elastic search, There is chrome extension of sense for es. For Sense, [refer](https://github.com/StephaneBour/sense-chrome)  
 
 Template license
 ----------------
