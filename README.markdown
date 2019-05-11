@@ -8,7 +8,7 @@ For basic terminilogy of elastic search. Read from [Introduction To ElasticSearc
 
 **1) Clone the Project**
 
-``sbt new mahesh2492/elastic-search-crud-application.g8``
+``sbt new knoldus/elastic-search-crud-application.g8``
 
 **2) Run the Elastic Search server**
 
@@ -22,7 +22,7 @@ For easy interaction with elastic search, There is chrome extension of sense for
 
 Template license
 ----------------
-Written in <2019> by <Mahesh Chand> <mahesh.kndpl@gmail.com>
+Written in <2019> by <Mahesh Chand>
 [other author/contributor lines as appropriate]
 
 To the extent possible under law, the author(s) have dedicated all copyright and related
